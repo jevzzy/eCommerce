@@ -1,0 +1,26 @@
+.cont {
+  display: flex;
+ justify-content: space-between;
+ align-items: center;
+    flex-wrap: wrap;
+    flex-direction: rows;
+padding: 30px;
+background-color: beige;
+
+
+}
+
+.card {
+    list-style: none;
+ 
+}
+
+
+.loading {
+
+    font-size: 50px;
+    margin: 40vh auto 0 auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+

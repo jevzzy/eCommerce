@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&display=swap');
+
+
+.Navbar {
+padding: 30px;
+   background-color:#8bab2b;
+display: flex;
+justify-content:space-between;
+position: relative;
+  
+}
+
+nav {
+    display: flex;
+    justify-content: space-evenly;
+    width: 70%;
+    align-items: center;
+    border: 2px solid black;
+    margin-right: 20%;
+}
+
+.active{
+    background-color: rgb(2, 26, 2);
+    border-radius: 5px;
+    width: 100px;
+    text-align: center;
+  padding: 20px;
+    font-family:"Agbalumo";
+    text-decoration: none;
+    font-weight:500;
+    color: azure;
+
+}
+
+
+.in_active {
+    font-style: Chalkduster, fantasy;
+    text-decoration: none;
+    color: black;
+    font-family:"Agbalumo";
+    font-weight: 300;
+}

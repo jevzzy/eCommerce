@@ -1,0 +1,13 @@
+.btnCont {
+    display: flex;
+    justify-content: space-between;
+    width: 200px;
+}
+
+.remBtn {
+    background-color: red;
+    border:none;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+}

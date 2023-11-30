@@ -1,0 +1,31 @@
+
+
+.productContainer {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 20px;
+}
+
+
+.productContainer div{
+
+width: 20%;
+margin: 0 auto;;
+}
+
+img {
+    width:100%;
+ 
+    background-color: darkgray;
+}
+
+
+p {
+    font-size: 40px;
+}
+
+
+
+.btn {
+    background-color:rgb(58, 58, 102) ;
+}
